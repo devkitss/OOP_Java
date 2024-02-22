@@ -12,6 +12,7 @@ import java.util.Scanner;
 // если final у переменной - это константа, кроме некоторых случаев (например списки ArrayList<>())
 public class UserView {
     private final UserController userController;
+    public User user;
 
     public UserView(UserController userController) {
         this.userController = userController;
@@ -21,16 +22,16 @@ public class UserView {
         Commands com;
 
         while (true) {
-            String command = prompt("Введите команду: ");
+            String command = user.prompt("Введите команду: ");
             com = Commands.valueOf(command);
             if (com == Commands.EXIT) return;
             switch (com) {
                 case CREATE:
-                    User u = createUser();
+                    User u = user.createUser();
                     userController.saveUser(u);
                     break;
                 case READ:
-                    String id = prompt("Идентификатор пользователя: ");
+                    String id = user.prompt("Идентификатор пользователя: ");
                     try {
                         User user = userController.readUser(Long.parseLong(id));
                         System.out.println(user);
@@ -43,28 +44,12 @@ public class UserView {
                     System.out.println(userController.readAll());
                     break;
                 case UPDATE:
-                    String userId = prompt("Enter user id: ");
-                    userController.updateUser(userId, createUser());
+                    String userId = user.prompt("Enter user id: ");
+                    userController.updateUser(userId, user.createUser());
                 case DELETE:
-                    String userID = prompt("Enter user id: ");
+                    String userID = user.prompt("Enter user id: ");
                     userController.deleteUser(Long.valueOf(userID));
             }
         }
-    }
-
-    private String prompt(String message) {
-        Scanner in = new Scanner(System.in);
-        System.out.print(message);
-        return in.nextLine();
-    }
-
-    private User createUser() {
-        String firstName = prompt("Имя: ");
-        String lastName = prompt("Фамилия: ");
-        String phone = prompt("Номер телефона: ");
-
-        UserValidator validator = new UserValidator();
-
-        return validator.validate(new User(firstName, lastName, phone));
     }
 }
