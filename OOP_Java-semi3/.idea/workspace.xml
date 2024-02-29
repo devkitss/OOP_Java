@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a92b49-7786-4383-b5e9-ae0d2eb29e74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminar2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar2/src/hw2/task1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar2/src/hw2/task1/task1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar2/src/hw2/task2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar2/src/hw2/task2/task2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/FirstSeminar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Encapsulation/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Encapsulation/Robot1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Encapsulation/Robot2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Encapsulation/Robot3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Inheritance/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Inheritance/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Inheritance/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Inheritance/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Inheritance/Teams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Polymorphism/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Polymorphism/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Polymorphism/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLecture/src/Polymorphism/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSeminar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSeminar/FirstSeminar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSeminar/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstSeminar/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Semi1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/clients/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/clients/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/clients/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/clients/Illness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/clients/Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/Semi1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/clients/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/clients/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/clients/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/clients/Illness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/clients/Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi1/src/main/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/Seminar4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/src/main/list/GBList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar4/src/main/list/imple/GBArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar1/seminar1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2cG1SvM03e6NVMjtEy3Z9b0T6ZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/amanov_aa/IdeaProjects/Javalker/OOP_Java-semi3/OOP_Java-semi3/OOP"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3a92b49-7786-4383-b5e9-ae0d2eb29e74" name="Changes" comment="" />
+      <created>1707723104774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707723104774</updated>
+    </task>
+    <servers />
+  </component>
+</project>
